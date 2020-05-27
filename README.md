@@ -1,2 +1,2 @@
-#HackerRank Mathematics 
+# HackerRank Mathematics 
 Problem solving using C++ programming.
